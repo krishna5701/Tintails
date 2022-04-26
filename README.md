@@ -6,7 +6,7 @@ First in order to run react files we need to install node modules for which we n
 ## install dependences for the server
 npm install
 
-##In order to start the react application run the command below 
+In order to start the react application run the command below 
 npm start
 ##if in case error pops up run the below client installation command
 ## install dependencies for client
