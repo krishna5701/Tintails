@@ -1,8 +1,8 @@
 # TinTails
-##This is a website named Tintails, a tinder for dogs were the dog owners can visit and find companionship for thier dogs
-##It is a website made using the functionalities such as HTML, CSS, Bootstrap4, Javascript and React.js
-##The step for the execution of the codes are mentioned as follows:-
-##First in order to run react files we need to install node modules for which we need to run the commmand mentioned below
+This is a website named Tintails, a tinder for dogs were the dog owners can visit and find companionship for thier dogs
+It is a website made using the functionalities such as HTML, CSS, Bootstrap4, Javascript and React.js
+The step for the execution of the codes are mentioned as follows:-
+First in order to run react files we need to install node modules for which we need to run the commmand mentioned below
 ## install dependences for the server
 npm install
 
